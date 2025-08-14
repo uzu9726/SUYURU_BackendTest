@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SUYURU_BackendTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a33dd629a5725b5ef3ed13d24b75197ee9e15b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SUYURU_BackendTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SUYURU_BackendTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

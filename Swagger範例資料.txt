@@ -1,0 +1,41 @@
+[POST] 範例資料:
+{
+  "acpD_SID": "ACPD001",
+  "acpD_Cname": "蘇煜茹",
+  "acpD_Ename": "YuRu Su",
+  "acpD_Sname": "Su",
+  "acpD_Email": "yuru.su@gmail.com",
+  "acpD_Status": 1,
+  "acpD_Stop": false,
+  "acpD_StopMemo": "",
+  "acpD_LoginID": "yuru123",
+  "acpD_LoginPWD": "Password123!",
+  "acpD_Memo": "測試新增資料",
+  "acpD_NowDateTime": "2025-08-14T13:14:53.485Z",
+  "acpD_NowID": "admin",
+  "acpD_UPDDateTime": "2025-08-14T13:14:53.485Z",
+  "acpD_UPDID": "admin"
+}
+
+[PUT] 範例資料:
+ACPD001
+{
+  "acpD_SID": "ACPD001",
+  "acpD_Cname": "蘇煜茹",
+  "acpD_Ename": "YuRu Su",
+  "acpD_Sname": "Su",
+  "acpD_Email": "yuru.su@gmail.com",
+  "acpD_Status": 1,
+  "acpD_Stop": false,
+  "acpD_StopMemo": "",
+  "acpD_LoginID": "1234567ID",
+  "acpD_LoginPWD": "Passwordyuru",
+  "acpD_Memo": "測試修改資料",
+  "acpD_NowDateTime": "2025-08-14T13:14:53.485Z",
+  "acpD_NowID": "admin",
+  "acpD_UPDDateTime": "2025-08-14T13:14:53.485Z",
+  "acpD_UPDID": "admin"
+}
+
+[DELETE] 範例資料:
+ACPD001
